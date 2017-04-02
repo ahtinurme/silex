@@ -10,11 +10,11 @@
 
     "require" : {
         "php"             : ">=5.3.3",
-        "bernard/bernard" : ">=0.12"
+        "bernard/bernard" : "*"
     },
 
     "require-dev" : {
-        "silex/silex"     : ">=1.0"
+        "silex/silex"     : "*"
     },
 
     "extra" : {
