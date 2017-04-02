@@ -1,5 +1,5 @@
 {
-    "name" : "bernard/silex",
+    "name" : "ahtinurme/silex",
     "description" : "Silex service provider for Bernard",
     "license" : "MIT",
     "autoload" : {
